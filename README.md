@@ -16,7 +16,7 @@ Python is available for a wide variety of platforms, including Windows, macOS, a
 
 ---
 
-0. **[Variables](##Variables)** and **[Data types](##Data-types)**: Learn about different data types in Python, such as integers, strings, and floating-point numbers, and how to store them in variables.
+0. **[Variables and data types](#Variables-and-data-types)**: Learn about different data types in Python, such as integers, strings, and floating-point numbers, and how to store them in variables.
     0. **[Variables](##Variables)**
     1. **[Data types](##Data-types)**
         0. **[Numbers](###Numbers)**
